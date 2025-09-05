@@ -33,5 +33,4 @@ A modern React application for building customizable forms with live preview, va
 
 ```sh
 npm install
-# or
-bun install
+npm run dev
